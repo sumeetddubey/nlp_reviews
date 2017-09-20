@@ -1,6 +1,3 @@
-GitHub Link to iPython notebooks and dataset:
-https://github.ccs.neu.edu/sumeetdubey/nlp_reviews
-
 All code is in Python 3
 I have used scikit-learn libraries for the algorithms and pandas for data-frames
 
